@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AZURE_OPENAI_API_KEY": "BY3fyV5f6ApCICYnA2TPxOg6StyLUZe84Ci55JN05gq0Ay1Y8K6eJQQJ99CDACYeBjFXJ3w3AAABACOGQUrA",
+    "AZURE_OPENAI_ENDPOINT": "https://verifyai.openai.azure.com/",
+    "AZURE_OPENAI_DEPLOYMENT_NAME": "gpt-5.4",
+    "AZURE_OPENAI_API_VERSION": "2024-02-01",
+    "DATABASE_HOST": "verifyai-postgres-server.postgres.database.azure.com",
+    "DATABASE_NAME": "verifyaidb",
+    "DATABASE_USER": "dbadmin",
+    "DATABASE_PASSWORD": "Verifyai!",
+    "DATABASE_PORT": "5432"
+  }
+}
+
