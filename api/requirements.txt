@@ -1,6 +1,0 @@
-azure-functions
-psycopg2-binary
-bcrypt
-openai
-requests
-beautifulsoup4
